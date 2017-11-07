@@ -1,22 +1,86 @@
+# Project Title
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+Coming soon..
 
+## Getting Started
 
-Welcome to your Node.js project on Cloud9 IDE!
+Coming soon..
 
-This chat example showcases how to use `socket.io` with a static `express` server.
+### Prerequisites
 
-## Running the server
+Coming soon..
 
-1) Open `server.js` and start the app by clicking on the "Run" button in the top menu.
+```
+Give examples
+```
 
-2) Alternatively you can launch the app from the Terminal:
+### Installing
 
-    $ node server.js
+Coming soon..
 
-Once the server is running, open the project in the shape of 'https://projectname-username.c9users.io/'. As you enter your name, watch the Users list (on the left) update. Once you press Enter or Send, the message is shared with all connected clients.
+```
+Give the example
+```
+
+Coming soon..
+
+```
+until finished
+```
+
+Coming soon..
+
+## Running the tests
+
+Coming soon..
+
+### Break down into end to end tests
+
+Coming soon..
+
+```
+Give an example
+```
+
+### And coding style tests
+
+Coming soon..
+
+```
+Give an example
+```
+
+## Deployment
+
+Coming soon..
+
+## Built With
+
+* [Node.js](https://nodejs.org/en/) - A JavaScript runtime built on Chrome's V8 JavaScript engine
+* [Express.js](https://expressjs.com/) - The web framework for Node.js
+* [AngularJS](https://angularjs.org/) - A JavaScript-based open-source front-end web application framework mainly maintained by Google
+* [Bower](https://bower.io/) - A package manager for the web
+
+## Contributing
+
+Coming soon..
+
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+
+## Authors
+
+* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* Hat tip to anyone who's code was used
+* Inspiration
+* etc
